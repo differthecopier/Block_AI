@@ -24,7 +24,7 @@ To tworzy pętlę samonaprawiającą, która aktywnie zwalcza próby sabotażu.
 
 1.  **Sklonuj lub pobierz to repozytorium:**
     ```bash
-    git clone [adres-twojego-prywatnego-repozytorium]
+    git clone https://github.com/differthecopier/Block_AI.git
     cd ai-fortress
     ```
 
