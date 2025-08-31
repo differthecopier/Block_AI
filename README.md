@@ -31,8 +31,8 @@ This creates a feedback loop that actively resists tampering.
 
 ```bash
 # Clone the repository
-git clone https://github.com/twoja-nazwa/nazwa-repo.git
-cd nazwa-repo
+git clone https://github.com/differthecopier/Block_AI.git
+cd Block_AI
 
 # Grant execution permissions
 chmod +x install.sh
